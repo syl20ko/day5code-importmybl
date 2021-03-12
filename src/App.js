@@ -2,6 +2,7 @@ import React, { Suspense } from "react";
 import { Canvas } from "react-three-fiber";
 import { OrbitControls, Sky } from "@react-three/drei";
 import Farm from "./Farmthreejs";
+
 import Boy from "./Boy";
 import "./App.css";
 
